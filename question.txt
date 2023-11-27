@@ -1,0 +1,29 @@
+讲讲 bind call apply 的作用和区别都有哪些？
+
+
+
+讲讲 http 的缓存机制，和你在项目中使用过http缓存嘛？
+
+
+
+讲讲vite的构建为什么vite打包的构建速度快？
+
+
+讲讲vue3的父子组件之间的传值都有哪些？
+
+
+讲讲 JS 的 闭包 以及可能引发的一系列问题？
+
+
+讲讲vue在渲染一个数组的是:key的作用是什么，如果是纯数字的（index）和 hash key 有什么区别？
+
+
+讲讲$nextTick的原理，以及为什么vue2.5之后需要使用$nextTick？ 在create 里面使用这个$nextTick？有什么效果，
+
+
+讲讲this.setState 是否是一个同步的值可以直接在console.log 之后直接拿到。
+
+
+聊一聊eventLoop 事件循环
+
+
